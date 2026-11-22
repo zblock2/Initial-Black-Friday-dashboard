@@ -1,15 +1,15 @@
 # Deal Intelligence — $0 personal Black Friday dashboard
 
-A static, no-build, browser-based personal deal dashboard, plus a Python standard-library RSS collector that can run periodically through GitHub Actions.
+A static browser dashboard plus a conservative **product-level candidate extractor** that runs for free through GitHub Actions. This v2 filters generic roundup articles and categorizes from recognized product names instead of article descriptions.
 
 ## What works
 
-- **Automatic discovery:** DealNews most recent and editor-selected RSS feeds, plus Slickdeals frontpage RSS. Three requests per collection run. Unavailable feeds report errors; other sources continue. No API keys or scraping of retailer checkout pages.
+- **Automatic discovery:** DealNews and Slickdeals RSS; only headlines plausibly describing a *single recognized product* are admitted. Roundups, broad promotions, ambiguous multiple-price offers and unknown products are excluded. Category comes from product title alone, never from article description. The collector reports how many feed entries it rejects and why. No paid APIs or retailer checkout scraping.
 - **Personalized ranking:** category + keyword matches, price availability, locally observed markdown evidence, watchlist boost. The 0–100 number is **personal match**, not proof of an exceptional discount.
-- **Search/filter/sort:** category, source, text, minimum available price information, match score, newest, lowest price, observed savings.
+- **Search/filter/sort:** category, source, product name/model/merchant text, price availability, match score, newest, lowest price, observed savings. Long article descriptions do not contaminate product search results.
 - **Watchlists and target prices:** local-browser storage; target achieved badge. Targets are checked when viewing the dashboard, **not push notifications**.
 - **History charts:** compare data collected from RSS headline prices over time, or your imported observations. Empty or incomplete history is clearly labeled. The collector records a new snapshot when a parsed headline price changes, not at every poll.
-- **Cross-retailer comparison:** manually add multiple listings using the same product group/model, or compare same-titled feed entries. Listings with similar names are **not automatically verified identical**.
+- **Cross-retailer comparison:** manually add listings using the same exact product model; automatic groups are populated only where a plausible model token appears. Listings with similar names are **not automatically verified identical**.
 - **Research links:** Google Shopping and CamelCamelCamel search shortcuts.
 - **Import/export:** CSV offers import, CSV export, JSON local backup/restore, local browser persistence.
 
@@ -55,7 +55,7 @@ Date and target are optional. Importing the same title + retailer again will add
 
 ## Data limitations
 
-- RSS content is a **deal discovery feed**, not a live retail product API. Headline prices can be absent, ambiguous, out of date, coupon-dependent, or for different product variants. Always verify at checkout. In particular, multiple dollar amounts in a headline are ambiguous; the current parser takes the first.
+- RSS content is a **deal discovery feed**, not a live retail product API. Headline prices can be absent, ambiguous, out of date, coupon-dependent, or for different product variants. Always verify at checkout. In particular, headlines with multiple dollar amounts are now excluded rather than assigning the wrong price.
 - Automatic price history begins only when the collector first sees a given deal URL, and only changes captured in feed headline prices are tracked. It does not backfill 12 months of history.
 - Automated cross-retailer matching is approximate by exact normalized title. Use manual model grouping for reliable comparisons.
 - The dashboard does not independently check stock, expiration, shipping, taxes, checkout totals, or verified manufacturer SKUs.
@@ -82,3 +82,13 @@ python -m unittest discover -s tests -v
 - Slickdeals feed: https://slickdeals.net/newsearch.php?mode=frontpage&searcharea=deals&searchin=first&rss=1
 - GitHub Pages: https://docs.github.com/en/pages
 - GitHub Actions: https://docs.github.com/en/actions
+
+## Version 2: Product-level discovery behavior
+
+The collector now treats a deal article as a **lead**, not automatically as an individual product. It extracts a normalized product title when a recognized product type exists, rejects known roundup or article patterns, does not search article descriptions to decide categories, and records `isProduct`, `productTitle`, `articleTitle`, `matchConfidence`, `model`, `retailer`, and `linkType`. The original source article URL remains available, but is **not** mislabeled as a merchant listing. Old unclassified feed items are dropped on the first v2 refresh.
+
+**Important limitation:** This improves product precision but still does not guarantee a canonical SKU, direct merchant product URL, verified price or complete catalog. Those require a permitted retailer-level product data source/API or structured product metadata. When an item lacks a clear seller or model, the app explicitly says so. A strict filter may lead to fewer discovered products; the collector displays per-source rejected-entry diagnostics in `data/deals.json`.
+
+### Upgrade your existing GitHub repository
+
+Download the v2 ZIP and copy **its contents, not the enclosing folder**, over your repository root. Commit and push the changed files. Go to Actions → Refresh deals and publish dashboard → Run workflow. GitHub Pages will republish the updated site. Local watchlists remain untouched because they are stored in your browser.
