@@ -1,6 +1,230 @@
 {
-  "generatedAt": "2026-11-22T15:39:30.245072+00:00",
+  "generatedAt": "2026-11-22T23:39:26.218365+00:00",
   "deals": [
+    {
+      "id": "cfd748da0dc7e11bf38f",
+      "title": "15.3\" HP HyperX OMEN Laptop: FHD+ IPS 165Hz, Ryzen 7 8745HX, RTX 5060, 16GB, 1TB + Free S&H",
+      "productTitle": "15.3\" HP HyperX OMEN Laptop: FHD+ IPS 165Hz, Ryzen 7 8745HX, RTX 5060, 16GB, 1TB + Free S&H",
+      "articleTitle": "15.3\" HP HyperX OMEN Laptop: FHD+ IPS 165Hz, Ryzen 7 8745HX, RTX 5060, 16GB, 1TB $1199 + Free S&H",
+      "url": "https://slickdeals.net/f/20369919-hyperx-omen-15-3-gaming-laptop-2k-ips-165hz-amd-ryzen-7-8745hx-nvidia-geforce-rtx-5060-16gb-ram-1tb-ssd-windows-11-iridescent-black-1199-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source": "Slickdeals",
+      "category": "Electronics",
+      "price": 1199.0,
+      "description": "Walmart has *HyperX OMEN 15.3\" Gaming Laptop, 2K IPS 165Hz, AMD Ryzen 7 8745HX, NVIDIA GeForce RTX 5060, 16GB RAM, 1TB SSD, Windows 11, Iridescent Black for $1199.99* ...",
+      "published": "2026-11-22T23:37:41+00:00",
+      "firstSeen": "2026-11-22T23:39:26.218365+00:00",
+      "updated": "2026-11-22T23:39:26.218365+00:00",
+      "history": [
+        {
+          "date": "2026-11-22T23:39:26.218365+00:00",
+          "price": 1199.0,
+          "retailer": "Slickdeals"
+        }
+      ],
+      "retailer": "",
+      "feed": true,
+      "isProduct": true,
+      "matchConfidence": "medium",
+      "model": "8745HX",
+      "group": "8745HX",
+      "linkType": "deal_article"
+    },
+    {
+      "id": "313cf6dd301380b41288",
+      "title": "HP OmniBook 3 Intel Core 5 320 16\" Laptop PC for +",
+      "productTitle": "HP OmniBook 3 Intel Core 5 320 16\" Laptop PC for +",
+      "articleTitle": "HP OmniBook 3 Intel Core 5 320 16\" Laptop PC for $500 + free shipping",
+      "url": "https://www.dealnews.com/products/HP/HP-Omni-Book-3-Intel-Core-5-320-16-Laptop-PC/562568.html?iref=rss",
+      "source": "DealNews",
+      "category": "Electronics",
+      "price": 500.0,
+      "description": "Ending today, Best Buy offers the HP OmniBook 3 Intel Core 5 320 16\" Laptop PC for $499.99. That's a $380 savings. Shipping is free. Buy Now at Best Buy Features 16\" 1920 x 1200 touchscreen display Intel Core 5 320 processor 8GB RAM & 512GB SSD Windows 11 Home",
+      "published": "2026-11-22T23:22:37+00:00",
+      "firstSeen": "2026-11-22T23:39:26.218365+00:00",
+      "updated": "2026-11-22T23:39:26.218365+00:00",
+      "history": [
+        {
+          "date": "2026-11-22T23:39:26.218365+00:00",
+          "price": 500.0,
+          "retailer": "DealNews"
+        }
+      ],
+      "retailer": "",
+      "feed": true,
+      "isProduct": true,
+      "matchConfidence": "medium",
+      "model": "",
+      "group": "",
+      "linkType": "deal_article"
+    },
+    {
+      "id": "be99efcac6eeec3860de",
+      "title": "Tineco Pure One A50S Cordless Stick Vacuum for +",
+      "productTitle": "Tineco Pure One A50S Cordless Stick Vacuum for +",
+      "articleTitle": "Tineco Pure One A50S Cordless Stick Vacuum for $159 + free shipping",
+      "url": "https://www.dealnews.com/products/Tineco/Tineco-Pure-One-A50-S-Cordless-Stick-Vacuum/560690.html?iref=rss",
+      "source": "DealNews",
+      "category": "Home & Garden",
+      "price": 159.0,
+      "description": "Cordless and bagless, this suits anyone who wants a vacuum that goes from carpet to hardwood without swapping heads or hauling a cord around the house, and at $159 it's $170 off the $329 list price. Apply coupon code \"DNBFCMA50\" for a savings of $170. Buy Now at Amazon Features 66% higher cleaning efficiency with 3DSense technology 220AW powerful s",
+      "published": "2026-11-22T21:51:07+00:00",
+      "firstSeen": "2026-11-22T23:39:26.218365+00:00",
+      "updated": "2026-11-22T23:39:26.218365+00:00",
+      "history": [
+        {
+          "date": "2026-11-22T23:39:26.218365+00:00",
+          "price": 159.0,
+          "retailer": "DealNews"
+        }
+      ],
+      "retailer": "",
+      "feed": true,
+      "isProduct": true,
+      "matchConfidence": "medium",
+      "model": "",
+      "group": "",
+      "linkType": "deal_article"
+    },
+    {
+      "id": "13186d730d2f9e0df1bd",
+      "title": "adidas Men's Crazy Warm Full-Zip Hoodie for +",
+      "productTitle": "adidas Men's Crazy Warm Full-Zip Hoodie for +",
+      "articleTitle": "adidas Men's Crazy Warm Full-Zip Hoodie for $28 + free shipping",
+      "url": "https://www.dealnews.com/adidas-Mens-Crazy-Warm-Full-Zip-Hoodie-for-28-free-shipping/22421372.html?iref=rss",
+      "source": "DealNews",
+      "category": "Clothing",
+      "price": 28.0,
+      "description": "With promo code \"EXTRA50SALE\", this adidas Crazy Warm Full-Zip Hoodie drops to $28 for a $21 low. Shipping is free. Deal ends November 27th. Buy Now at eBay",
+      "published": "2026-11-22T21:49:14+00:00",
+      "firstSeen": "2026-11-22T23:39:26.218365+00:00",
+      "updated": "2026-11-22T23:39:26.218365+00:00",
+      "history": [
+        {
+          "date": "2026-11-22T23:39:26.218365+00:00",
+          "price": 28.0,
+          "retailer": "DealNews"
+        }
+      ],
+      "retailer": "",
+      "feed": true,
+      "isProduct": true,
+      "matchConfidence": "medium",
+      "model": "",
+      "group": "",
+      "linkType": "deal_article"
+    },
+    {
+      "id": "34a7e1e4c3c2d110e47d",
+      "title": "Momcozy D8 Bottle Washer, Sterilizer, and Dryer for +",
+      "productTitle": "Momcozy D8 Bottle Washer, Sterilizer, and Dryer for +",
+      "articleTitle": "Momcozy D8 Bottle Washer, Sterilizer, and Dryer for $243 + free shipping",
+      "url": "https://www.dealnews.com/Momcozy-D8-Bottle-Washer-Sterilizer-and-Dryer-for-243-free-shipping/22415460.html?iref=rss",
+      "source": "DealNews",
+      "category": "Appliances",
+      "price": 243.0,
+      "description": "Parents washing, sterilizing, and drying bottles multiple times a day will appreciate having all three steps handled by one machine instead of juggling separate tools, and at $243, that's $117 (about 32%) off the $360 list price. Apply coupon code \"RFS8KS09\" for a savings of $117. Buy Now at Amazon Features Wash and dry 8 bottles plus accessories p",
+      "published": "2026-11-22T21:44:56+00:00",
+      "firstSeen": "2026-11-22T23:39:26.218365+00:00",
+      "updated": "2026-11-22T23:39:26.218365+00:00",
+      "history": [
+        {
+          "date": "2026-11-22T23:39:26.218365+00:00",
+          "price": 243.0,
+          "retailer": "DealNews"
+        }
+      ],
+      "retailer": "",
+      "feed": true,
+      "isProduct": true,
+      "matchConfidence": "medium",
+      "model": "",
+      "group": "",
+      "linkType": "deal_article"
+    },
+    {
+      "id": "f6a49d41da95c66d44be",
+      "title": "Under Armour Men's Surge 5 Running Shoes for +",
+      "productTitle": "Under Armour Men's Surge 5 Running Shoes for +",
+      "articleTitle": "Under Armour Men's Surge 5 Running Shoes for $41 + free shipping",
+      "url": "https://www.dealnews.com/Under-Armour-Mens-Surge-5-Running-Shoes-for-41-free-shipping/22421342.html?iref=rss",
+      "source": "DealNews",
+      "category": "Clothing",
+      "price": 41.0,
+      "description": "Use promo codes \"BLACKFRIDAY\" and \"EXTRA10\" to drop the Under Armour Men's Surge 5 Running Shoes in several styles to $40.95 for a $14 low. Plus, you'll also get free shipping. Deal ends November 26th. Buy Now at Under Armour",
+      "published": "2026-11-22T21:28:48+00:00",
+      "firstSeen": "2026-11-22T23:39:26.218365+00:00",
+      "updated": "2026-11-22T23:39:26.218365+00:00",
+      "history": [
+        {
+          "date": "2026-11-22T23:39:26.218365+00:00",
+          "price": 41.0,
+          "retailer": "DealNews"
+        }
+      ],
+      "retailer": "",
+      "feed": true,
+      "isProduct": true,
+      "matchConfidence": "medium",
+      "model": "",
+      "group": "",
+      "linkType": "deal_article"
+    },
+    {
+      "id": "b0cd9ee8493828b05272",
+      "title": "Momcozy KleanPal Pro All-in-One Bottle Washer, Sterilizer, and Dryer for +",
+      "productTitle": "Momcozy KleanPal Pro All-in-One Bottle Washer, Sterilizer, and Dryer for +",
+      "articleTitle": "Momcozy KleanPal Pro All-in-One Bottle Washer, Sterilizer, and Dryer for $209 + free shipping",
+      "url": "https://www.dealnews.com/products/Mom-Cozy/Mom-Cozy-Klean-Pal-Pro-Baby-Bottle-Washer-Sterilizer-and-Dryer/496036.html?iref=rss",
+      "source": "DealNews",
+      "category": "Appliances",
+      "price": 209.0,
+      "description": "Parents juggling bottle prep multiple times a day will appreciate having washing, sterilizing, and drying handled in one machine instead of three separate steps at the sink, and right now it's $91 off the $300 list price. Apply coupon code \"GE71YLT7\" for a savings of $91. Buy Now at Amazon Features Automates washing, sterilizing, and drying baby bo",
+      "published": "2026-11-22T21:27:22+00:00",
+      "firstSeen": "2026-11-22T23:39:26.218365+00:00",
+      "updated": "2026-11-22T23:39:26.218365+00:00",
+      "history": [
+        {
+          "date": "2026-11-22T23:39:26.218365+00:00",
+          "price": 209.0,
+          "retailer": "DealNews"
+        }
+      ],
+      "retailer": "",
+      "feed": true,
+      "isProduct": true,
+      "matchConfidence": "medium",
+      "model": "",
+      "group": "",
+      "linkType": "deal_article"
+    },
+    {
+      "id": "27c8fc1937964726cf8a",
+      "title": "Momcozy Triple-Seal Diaper Pail for +",
+      "productTitle": "Momcozy Triple-Seal Diaper Pail for +",
+      "articleTitle": "Momcozy Triple-Seal Diaper Pail for $72 + free shipping",
+      "url": "https://www.dealnews.com/products/Mom-Cozy/Momcozy-Triple-Seal-Diaper-Pail/561436.html?iref=rss",
+      "source": "DealNews",
+      "category": "Baby & Kids",
+      "price": 72.0,
+      "description": "Keeping nursery odors contained is the main selling point here, thanks to the triple-seal design that locks smells in better than standard diaper pails, which matters most if you're dealing with newborn diapers around the clock. At $72, that's $18 off the $90 list price. Buy Now at Amazon Features Triple-seal system prevents unpleasant diaper odors",
+      "published": "2026-11-22T21:18:38+00:00",
+      "firstSeen": "2026-11-22T23:39:26.218365+00:00",
+      "updated": "2026-11-22T23:39:26.218365+00:00",
+      "history": [
+        {
+          "date": "2026-11-22T23:39:26.218365+00:00",
+          "price": 72.0,
+          "retailer": "DealNews"
+        }
+      ],
+      "retailer": "",
+      "feed": true,
+      "isProduct": true,
+      "matchConfidence": "medium",
+      "model": "",
+      "group": "",
+      "linkType": "deal_article"
+    },
     {
       "id": "34563eb29e3452867ed1",
       "title": "Roborock Qrevo Edge 3 Pro Robot Vacuum & Mop w/ Intelligent Dock + Free S&H",
@@ -405,7 +629,7 @@
       "description": "At Amazon, this Hanes EcoSmart fleece zip hoodie is 61% off. The fleece is a 50/50 cotton and polyester blend, and sizing runs up to 6X-large. Shipping is free for Prime members. Buy Now at Amazon Features 50% cotton, 50% polyester fleece blend Full-zip front with drawstring hood Classic fit with straight hemline Lightweight fabric with medium stre",
       "published": "2026-11-20T21:06:52+00:00",
       "firstSeen": "2026-11-22T15:39:30.245072+00:00",
-      "updated": "2026-11-22T15:39:30.245072+00:00",
+      "updated": "2026-11-22T23:39:26.218365+00:00",
       "history": [
         {
           "date": "2026-11-22T15:39:30.245072+00:00",
@@ -425,19 +649,18 @@
   "sources": {
     "DealNews": {
       "ok": true,
-      "count": 8,
-      "checked": "2026-11-22T15:39:30.245072+00:00",
-      "total": 49,
+      "count": 7,
+      "checked": "2026-11-22T23:39:26.218365+00:00",
+      "total": 44,
       "skipped": {
-        "article_or_roundup": 14,
-        "unrecognized_product": 26,
-        "general_promotion": 1
+        "unrecognized_product": 32,
+        "article_or_roundup": 5
       }
     },
     "DealNews Editors": {
       "ok": true,
       "count": 1,
-      "checked": "2026-11-22T15:39:30.245072+00:00",
+      "checked": "2026-11-22T23:39:26.218365+00:00",
       "total": 40,
       "skipped": {
         "article_or_roundup": 18,
@@ -446,11 +669,11 @@
     },
     "Slickdeals": {
       "ok": true,
-      "count": 6,
-      "checked": "2026-11-22T15:39:30.245072+00:00",
+      "count": 1,
+      "checked": "2026-11-22T23:39:26.218365+00:00",
       "total": 25,
       "skipped": {
-        "unrecognized_product": 19
+        "unrecognized_product": 24
       }
     }
   },
