@@ -1,6 +1,510 @@
 {
-  "generatedAt": "2026-11-24T10:02:40.666361+00:00",
+  "generatedAt": "2026-11-24T22:34:17.536043+00:00",
   "deals": [
+    {
+      "id": "00f013462f4c0dd0c966",
+      "title": "HP OmniBook X Flip 2-in-1 Touch Laptop: 16\" FHD+ IPS, Ultra 7 256V, 16GB, 1TB SSD +",
+      "productTitle": "HP OmniBook X Flip 2-in-1 Touch Laptop: 16\" FHD+ IPS, Ultra 7 256V, 16GB, 1TB SSD +",
+      "articleTitle": "HP OmniBook X Flip 2-in-1 Touch Laptop: 16\" FHD+ IPS, Ultra 7 256V, 16GB, 1TB SSD $750 + Free Shipping",
+      "url": "https://slickdeals.net/f/20385021-749-99-hp-omnibook-x-flip-2-in-1-16-2k-touchscreen-laptop-intel-core-ultra-7-256v-16gb-ram-1tb-ssd-copilot-backlit-keyboard?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source": "Slickdeals",
+      "category": "Electronics",
+      "price": 750.0,
+      "description": "https://www.bestbuy.com/product/h...JJGQJRKGR5 Intel Core Ultra 7 256V Processor With Intel AI Boost (47 NPU TOPS) 16GB LPDDR5X Memory (RAM) 1TB Solid State Drive (SSD) Storage Intel Arc 140V...",
+      "published": "2026-11-24T22:24:39+00:00",
+      "firstSeen": "2026-11-24T22:34:17.536043+00:00",
+      "updated": "2026-11-24T22:34:17.536043+00:00",
+      "history": [
+        {
+          "date": "2026-11-24T22:34:17.536043+00:00",
+          "price": 750.0,
+          "retailer": "Slickdeals"
+        }
+      ],
+      "retailer": "",
+      "feed": true,
+      "isProduct": true,
+      "matchConfidence": "medium",
+      "model": "2-IN-1",
+      "group": "2-IN-1",
+      "linkType": "deal_article"
+    },
+    {
+      "id": "738107da712343286f35",
+      "title": "Marmot Men's Coastal Long-Sleeve T-Shirt for +",
+      "productTitle": "Marmot Men's Coastal Long-Sleeve T-Shirt for +",
+      "articleTitle": "Marmot Men's Coastal Long-Sleeve T-Shirt for $29 + free shipping",
+      "url": "https://www.dealnews.com/Marmot-Mens-Coastal-Long-Sleeve-T-Shirt-for-29-free-shipping/22428676.html?iref=rss",
+      "source": "DealNews",
+      "category": "Clothing",
+      "price": 29.0,
+      "description": "As part of Marmot's Black Friday sale, this Men's Coastal Long-Sleeve T-Shirt is 30% off, dropping to $29 from the regular $42 price. Several colors are available (Black pictured). Marmot backs it with a limited lifetime warranty. Members get free shipping with no minimum, and it's free to join. Buy Now at Marmot Features Recycled cotton and recycl",
+      "published": "2026-11-24T22:21:28+00:00",
+      "firstSeen": "2026-11-24T22:34:17.536043+00:00",
+      "updated": "2026-11-24T22:34:17.536043+00:00",
+      "history": [
+        {
+          "date": "2026-11-24T22:34:17.536043+00:00",
+          "price": 29.0,
+          "retailer": "DealNews"
+        }
+      ],
+      "retailer": "",
+      "feed": true,
+      "isProduct": true,
+      "matchConfidence": "medium",
+      "model": "",
+      "group": "",
+      "linkType": "deal_article"
+    },
+    {
+      "id": "b0cd9ee8493828b05272",
+      "title": "Momcozy KleanPal Pro All-in-One Bottle Washer, Sterilizer, and Dryer for +",
+      "productTitle": "Momcozy KleanPal Pro All-in-One Bottle Washer, Sterilizer, and Dryer for +",
+      "articleTitle": "Momcozy KleanPal Pro All-in-One Bottle Washer, Sterilizer, and Dryer for $209 + free shipping",
+      "url": "https://www.dealnews.com/products/Mom-Cozy/Mom-Cozy-Klean-Pal-Pro-Baby-Bottle-Washer-Sterilizer-and-Dryer/496036.html?iref=rss",
+      "source": "DealNews",
+      "category": "Appliances",
+      "price": 209.0,
+      "description": "Parents juggling bottle prep multiple times a day will appreciate having washing, sterilizing, and drying handled in one machine instead of three separate steps at the sink, and right now it's $91 off the $300 list price. Apply coupon code \"GE71YLT7\" for a savings of $91. Buy Now at Amazon Features Automates washing, sterilizing, and drying baby bo",
+      "published": "2026-11-24T22:21:14+00:00",
+      "firstSeen": "2026-11-22T23:39:26.218365+00:00",
+      "updated": "2026-11-24T22:34:17.536043+00:00",
+      "history": [
+        {
+          "date": "2026-11-22T23:39:26.218365+00:00",
+          "price": 209.0,
+          "retailer": "DealNews"
+        }
+      ],
+      "retailer": "",
+      "feed": true,
+      "isProduct": true,
+      "matchConfidence": "medium",
+      "model": "",
+      "group": "",
+      "linkType": "deal_article"
+    },
+    {
+      "id": "92ad8aac8fb04501b60e",
+      "title": "Marmot Men's Snowblades Hoodie for +",
+      "productTitle": "Marmot Men's Snowblades Hoodie for +",
+      "articleTitle": "Marmot Men's Snowblades Hoodie for $48 + free shipping",
+      "url": "https://www.dealnews.com/Marmot-Mens-Snowblades-Hoodie-for-48-free-shipping/22428658.html?iref=rss",
+      "source": "DealNews",
+      "category": "Clothing",
+      "price": 48.0,
+      "description": "In the Marmot Black Friday sale, this Snowblades Hoodie is 30% off at Marmot. Other sellers charge $69. The hoodie is backed by a limited lifetime warranty. Shipping is free for Marmot Rewards members with no minimum, down from a $49 threshold. Buy Now at Marmot Features Recycled cotton and recycled polyester blend Screen printed graphic on the fro",
+      "published": "2026-11-24T22:14:51+00:00",
+      "firstSeen": "2026-11-24T22:34:17.536043+00:00",
+      "updated": "2026-11-24T22:34:17.536043+00:00",
+      "history": [
+        {
+          "date": "2026-11-24T22:34:17.536043+00:00",
+          "price": 48.0,
+          "retailer": "DealNews"
+        }
+      ],
+      "retailer": "",
+      "feed": true,
+      "isProduct": true,
+      "matchConfidence": "medium",
+      "model": "",
+      "group": "",
+      "linkType": "deal_article"
+    },
+    {
+      "id": "51c14dc82285541e36f4",
+      "title": "55\" 4K UHD Ultra Bright IP55 Weatherproof Outdoor Google Smart TV for +",
+      "productTitle": "55\" 4K UHD Ultra Bright IP55 Weatherproof Outdoor Google Smart TV for +",
+      "articleTitle": "55\" 4K UHD Ultra Bright IP55 Weatherproof Outdoor Google Smart TV for $1,000 + free shipping",
+      "url": "https://www.dealnews.com/55-4-K-UHD-Ultra-Bright-IP55-Weatherproof-Outdoor-Google-Smart-TV-for-1-000-free-shipping/22406402.html?iref=rss",
+      "source": "DealNews",
+      "category": "Electronics",
+      "price": 1000.0,
+      "description": "Built for patios and covered outdoor spaces where a regular TV wouldn't survive moisture or direct sun, the IP55 rating and high brightness panel handle both. At $1000, that's $599 (37%) off the $1599 list price. Apply coupon code \"55ODTVDS\" for a savings of $599. It ships for free. Buy Now at Amazon Features 2500 nits brightness for direct sunligh",
+      "published": "2026-11-24T22:09:30+00:00",
+      "firstSeen": "2026-11-24T22:34:17.536043+00:00",
+      "updated": "2026-11-24T22:34:17.536043+00:00",
+      "history": [
+        {
+          "date": "2026-11-24T22:34:17.536043+00:00",
+          "price": 1000.0,
+          "retailer": "DealNews"
+        }
+      ],
+      "retailer": "",
+      "feed": true,
+      "isProduct": true,
+      "matchConfidence": "medium",
+      "model": "",
+      "group": "",
+      "linkType": "deal_article"
+    },
+    {
+      "id": "bf9a2cb6609bbe05d177",
+      "title": "PUMA Suede Classic Men's Sneakers for +",
+      "productTitle": "PUMA Suede Classic Men's Sneakers for +",
+      "articleTitle": "PUMA Suede Classic Men's Sneakers for $70 + free shipping",
+      "url": "https://www.dealnews.com/PUMA-Suede-Classic-Mens-Sneakers-for-70-free-shipping/22428642.html?iref=rss",
+      "source": "DealNews",
+      "category": "Clothing",
+      "price": 70.0,
+      "description": "PUMA Suede Classic Men's Sneakers are $20 off at PUMA, with no code needed. The Suede design dates to 1968. Free returns apply on qualifying orders. Members get free shipping on orders of $50 or more, and it's free to join. Offer ends November 24. Buy Now at PUMA",
+      "published": "2026-11-24T21:58:19+00:00",
+      "firstSeen": "2026-11-24T22:34:17.536043+00:00",
+      "updated": "2026-11-24T22:34:17.536043+00:00",
+      "history": [
+        {
+          "date": "2026-11-24T22:34:17.536043+00:00",
+          "price": 70.0,
+          "retailer": "DealNews"
+        }
+      ],
+      "retailer": "",
+      "feed": true,
+      "isProduct": true,
+      "matchConfidence": "medium",
+      "model": "",
+      "group": "",
+      "linkType": "deal_article"
+    },
+    {
+      "id": "c427d6e007afc96c1c0f",
+      "title": "Straight Talk 128GB Apple iPhone 16e (Locked) + 30-Day Bronze 10GB Plan & More + Free S&H",
+      "productTitle": "Straight Talk 128GB Apple iPhone 16e (Locked) + 30-Day Bronze 10GB Plan & More + Free S&H",
+      "articleTitle": "Straight Talk 128GB Apple iPhone 16e (Locked) + 30-Day Bronze 10GB Plan $234 & More + Free S&H",
+      "url": "https://slickdeals.net/f/20388315-straight-talk-prepaid-smartphones-apple-iphone-16e-199-samsung-galaxy-a27-99-99-w-plan-purchase?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source": "Slickdeals",
+      "category": "Electronics",
+      "price": 234.0,
+      "description": "*Straight Talk* [sjv.io] is offering the following prepaid smartphones at discounted prices with the purchase of any service plan[LIST][*]*Apple iPhone 16e 128GB* – *$199* * 6.1\" Super Retina XDR...",
+      "published": "2026-11-24T21:57:52+00:00",
+      "firstSeen": "2026-11-24T22:34:17.536043+00:00",
+      "updated": "2026-11-24T22:34:17.536043+00:00",
+      "history": [
+        {
+          "date": "2026-11-24T22:34:17.536043+00:00",
+          "price": 234.0,
+          "retailer": "Slickdeals"
+        }
+      ],
+      "retailer": "",
+      "feed": true,
+      "isProduct": true,
+      "matchConfidence": "medium",
+      "model": "30-DAY",
+      "group": "30-DAY",
+      "linkType": "deal_article"
+    },
+    {
+      "id": "15bfbc66bcdcbe09fdf8",
+      "title": "Star Wars: Heritage Pack (Nintendo Switch)",
+      "productTitle": "Star Wars: Heritage Pack (Nintendo Switch)",
+      "articleTitle": "Star Wars: Heritage Pack (Nintendo Switch) $25",
+      "url": "https://slickdeals.net/f/20387046-star-wars-heritage-pack-nintendo-switch-24-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source": "Slickdeals",
+      "category": "Electronics",
+      "price": 25.0,
+      "description": "https://www.amazon.com/dp/B0CK4Y8...yp_imgToDp The following games are included in the cartridge: STAR WARS Jedi Knight: Jedi Academy (3.6 GB) STAR WARS Jedi Knight II: Jedi Outcast (1.1 GB)...",
+      "published": "2026-11-24T21:52:45+00:00",
+      "firstSeen": "2026-11-24T22:34:17.536043+00:00",
+      "updated": "2026-11-24T22:34:17.536043+00:00",
+      "history": [
+        {
+          "date": "2026-11-24T22:34:17.536043+00:00",
+          "price": 25.0,
+          "retailer": "Slickdeals"
+        }
+      ],
+      "retailer": "",
+      "feed": true,
+      "isProduct": true,
+      "matchConfidence": "medium",
+      "model": "",
+      "group": "",
+      "linkType": "deal_article"
+    },
+    {
+      "id": "cf67bfb36c9a939e3141",
+      "title": "The North Face Men's Canyonland 2 Fleece Full Zip Jacket for +",
+      "productTitle": "The North Face Men's Canyonland 2 Fleece Full Zip Jacket for +",
+      "articleTitle": "The North Face Men's Canyonland 2 Fleece Full Zip Jacket for $52 + free shipping",
+      "url": "https://www.dealnews.com/The-North-Face-Mens-Canyonland-2-Fleece-Full-Zip-Jacket-for-52-free-shipping/22428623.html?iref=rss",
+      "source": "DealNews",
+      "category": "Clothing",
+      "price": 52.0,
+      "description": "eBay offers The North Face Men's Canyonland 2 Fleece Full Zip Jacket in several colors for $51.68 via promo code \"CYBERFINDS20\". That's a $48 low. Shipping is free. Deal ends November 30th. Buy Now at eBay",
+      "published": "2026-11-24T21:41:26+00:00",
+      "firstSeen": "2026-11-24T22:34:17.536043+00:00",
+      "updated": "2026-11-24T22:34:17.536043+00:00",
+      "history": [
+        {
+          "date": "2026-11-24T22:34:17.536043+00:00",
+          "price": 52.0,
+          "retailer": "DealNews"
+        }
+      ],
+      "retailer": "",
+      "feed": true,
+      "isProduct": true,
+      "matchConfidence": "medium",
+      "model": "",
+      "group": "",
+      "linkType": "deal_article"
+    },
+    {
+      "id": "c4894e58261306e0e349",
+      "title": "Samsung U8000H 65\" 4K HDR10+ LED Smart TV for +",
+      "productTitle": "Samsung U8000H 65\" 4K HDR10+ LED Smart TV for +",
+      "articleTitle": "Samsung U8000H 65\" 4K HDR10+ LED Smart TV for $300 + free shipping",
+      "url": "https://www.dealnews.com/products/Samsung/Samsung-U8000-H-65-4-K-HDR10-LED-Smart-TV/563525.html?iref=rss",
+      "source": "DealNews",
+      "category": "Electronics",
+      "price": 300.0,
+      "description": "As part of the Best Buy Black Friday sale, this Samsung 65\" 4K smart TV is $100 off. Best Buy also lists 10% off a TV mount and 15% off eero products with purchase. My Best Buy members get free shipping on all orders (it's free to join). Buy Now at Best Buy Features 65\" screen with 4K resolution (2160p) LED display with direct-lit backlight HDR10+ ",
+      "published": "2026-11-24T21:40:06+00:00",
+      "firstSeen": "2026-11-24T22:34:17.536043+00:00",
+      "updated": "2026-11-24T22:34:17.536043+00:00",
+      "history": [
+        {
+          "date": "2026-11-24T22:34:17.536043+00:00",
+          "price": 300.0,
+          "retailer": "DealNews"
+        }
+      ],
+      "retailer": "",
+      "feed": true,
+      "isProduct": true,
+      "matchConfidence": "medium",
+      "model": "U8000H",
+      "group": "U8000H",
+      "linkType": "deal_article"
+    },
+    {
+      "id": "5a638446f931c2845c47",
+      "title": "Samsung U8000H 65\" 4K HDR10+ LED Smart TV for +",
+      "productTitle": "Samsung U8000H 65\" 4K HDR10+ LED Smart TV for +",
+      "articleTitle": "Samsung U8000H 65\" 4K HDR10+ LED Smart TV for $300 + free shipping",
+      "url": "https://www.dealnews.com/products/Samsung/Samsung-U8000-H-65-4-K-HDR10-LED-Smart-TV/563525.html?iref=rss-f1682",
+      "source": "DealNews Editors",
+      "category": "Electronics",
+      "price": 300.0,
+      "description": "As part of the Best Buy Black Friday sale, this Samsung 65\" 4K smart TV is $100 off. Best Buy also lists 10% off a TV mount and 15% off eero products with purchase. My Best Buy members get free shipping on all orders (it's free to join). Buy Now at Best Buy Features 65\" screen with 4K resolution (2160p) LED display with direct-lit backlight HDR10+ ",
+      "published": "2026-11-24T21:40:06+00:00",
+      "firstSeen": "2026-11-24T22:34:17.536043+00:00",
+      "updated": "2026-11-24T22:34:17.536043+00:00",
+      "history": [
+        {
+          "date": "2026-11-24T22:34:17.536043+00:00",
+          "price": 300.0,
+          "retailer": "DealNews Editors"
+        }
+      ],
+      "retailer": "",
+      "feed": true,
+      "isProduct": true,
+      "matchConfidence": "medium",
+      "model": "U8000H",
+      "group": "U8000H",
+      "linkType": "deal_article"
+    },
+    {
+      "id": "ed7bab64e85e5fd24fd4",
+      "title": "Roborock Qrevo S Pro Robot Vacuum & Mop + Free S/H",
+      "productTitle": "Roborock Qrevo S Pro Robot Vacuum & Mop + Free S/H",
+      "articleTitle": "Roborock Qrevo S Pro Robot Vacuum & Mop $380 + Free S/H",
+      "url": "https://slickdeals.net/f/20340165-379-99-roborock-qrevo-s-pro-robot-vacuum-mop-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source": "Slickdeals",
+      "category": "Home & Garden",
+      "price": 380.0,
+      "description": "Roborock Technology Co. Ltd via Amazon [amazon.com] has *Roborock Qrevo S Pro Robot Vacuum & Mop* for *$379.99*. *Shipping is free*. *** Previous *Frontpage Deal* at *$400* with *34* Deal Score...",
+      "published": "2026-11-24T21:39:07+00:00",
+      "firstSeen": "2026-11-24T22:34:17.536043+00:00",
+      "updated": "2026-11-24T22:34:17.536043+00:00",
+      "history": [
+        {
+          "date": "2026-11-24T22:34:17.536043+00:00",
+          "price": 380.0,
+          "retailer": "Slickdeals"
+        }
+      ],
+      "retailer": "",
+      "feed": true,
+      "isProduct": true,
+      "matchConfidence": "medium",
+      "model": "",
+      "group": "",
+      "linkType": "deal_article"
+    },
+    {
+      "id": "3602165de98649652117",
+      "title": "13\" 128GB Lenovo Idea Tab Pro Gen 2 Tablet w/ Snapdragon 8s Gen 4 & Tab Pen Plus + Free S&H",
+      "productTitle": "13\" 128GB Lenovo Idea Tab Pro Gen 2 Tablet w/ Snapdragon 8s Gen 4 & Tab Pen Plus + Free S&H",
+      "articleTitle": "13\" 128GB Lenovo Idea Tab Pro Gen 2 Tablet w/ Snapdragon 8s Gen 4 & Tab Pen Plus $400 + Free S&H",
+      "url": "https://slickdeals.net/f/20374455-lenovo-ideatab-pro-gen-2-13-4k-144hz-tablet-w-snapdragon-8s-gen-4-8gb-ram-128gb-tab-pen-plus-luna-grey-399-99-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source": "Slickdeals",
+      "category": "Electronics",
+      "price": 400.0,
+      "description": "*Best Buy* [bestbuy.com] has *Lenovo IdeaTab Pro Gen 2 13\" 4K 144Hz Tablet w/ Snapdragon 8s Gen 4, 8GB RAM, 128GB & Tab Pen Plus (Luna Grey)* on sale for *$399.99*. *Shipping is free* for My Best Buy...",
+      "published": "2026-11-24T21:33:17+00:00",
+      "firstSeen": "2026-11-24T22:34:17.536043+00:00",
+      "updated": "2026-11-24T22:34:17.536043+00:00",
+      "history": [
+        {
+          "date": "2026-11-24T22:34:17.536043+00:00",
+          "price": 400.0,
+          "retailer": "Slickdeals"
+        }
+      ],
+      "retailer": "",
+      "feed": true,
+      "isProduct": true,
+      "matchConfidence": "medium",
+      "model": "",
+      "group": "",
+      "linkType": "deal_article"
+    },
+    {
+      "id": "befb3f8d6687ea9879aa",
+      "title": "Apple MacBook Neo Laptop: 13\" 2408x1506, A18 Pro Chip, 8GB RAM, 512GB SSD + Free S&H",
+      "productTitle": "Apple MacBook Neo Laptop: 13\" 2408x1506, A18 Pro Chip, 8GB RAM, 512GB SSD + Free S&H",
+      "articleTitle": "Apple MacBook Neo Laptop: 13\" 2408x1506, A18 Pro Chip, 8GB RAM, 512GB SSD $699 + Free S&H",
+      "url": "https://slickdeals.net/f/20388807-699-apple-macbook-neo-laptop-13-2408x1506-a18-pro-chip-8gb-ram-512gb-ssd-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source": "Slickdeals",
+      "category": "Electronics",
+      "price": 699.0,
+      "description": "Amazon [amazon.com] has *Apple MacBook Neo Laptop: 13\" 2408x1506, A18 Pro Chip, 8GB RAM, 512GB SSD* for *$699*. *Shipping is free*. *Savings* Offer Up to 3 free months of Apple Arcade, Fitness+,...",
+      "published": "2026-11-24T21:30:20+00:00",
+      "firstSeen": "2026-11-24T22:34:17.536043+00:00",
+      "updated": "2026-11-24T22:34:17.536043+00:00",
+      "history": [
+        {
+          "date": "2026-11-24T22:34:17.536043+00:00",
+          "price": 699.0,
+          "retailer": "Slickdeals"
+        }
+      ],
+      "retailer": "",
+      "feed": true,
+      "isProduct": true,
+      "matchConfidence": "medium",
+      "model": "2408X1506",
+      "group": "2408X1506",
+      "linkType": "deal_article"
+    },
+    {
+      "id": "20e74449cfce1215e70e",
+      "title": "The North Face Men's TKA Glacier 100 Full-Zip Fleece Jacket for +",
+      "productTitle": "The North Face Men's TKA Glacier 100 Full-Zip Fleece Jacket for +",
+      "articleTitle": "The North Face Men's TKA Glacier 100 Full-Zip Fleece Jacket for $55 + free shipping",
+      "url": "https://www.dealnews.com/The-North-Face-Mens-TKA-Glacier-100-Full-Zip-Fleece-Jacket-for-55-free-shipping/22428602.html?iref=rss",
+      "source": "DealNews",
+      "category": "Clothing",
+      "price": 55.0,
+      "description": "Use promo code \"CYBERFINDS20\" to drop The North Face Men's TKA Glacier 100 Full-Zip Fleece Jacket in several colors to $54.72. That's a $45 low. Shipping is free. Deal ends November 30th. Buy Now at eBay",
+      "published": "2026-11-24T21:27:25+00:00",
+      "firstSeen": "2026-11-24T22:34:17.536043+00:00",
+      "updated": "2026-11-24T22:34:17.536043+00:00",
+      "history": [
+        {
+          "date": "2026-11-24T22:34:17.536043+00:00",
+          "price": 55.0,
+          "retailer": "DealNews"
+        }
+      ],
+      "retailer": "",
+      "feed": true,
+      "isProduct": true,
+      "matchConfidence": "medium",
+      "model": "",
+      "group": "",
+      "linkType": "deal_article"
+    },
+    {
+      "id": "c3cc1cea715fa75a6a12",
+      "title": "adidas Men's Daily 4.0 Sneakers for +",
+      "productTitle": "adidas Men's Daily 4.0 Sneakers for +",
+      "articleTitle": "adidas Men's Daily 4.0 Sneakers for $30 + free shipping w/ Prime",
+      "url": "https://www.dealnews.com/adidas-Mens-Daily-4-0-Sneakers-for-30-free-shipping-w-Prime/22428268.html?iref=rss",
+      "source": "DealNews",
+      "category": "Clothing",
+      "price": 30.0,
+      "description": "These adidas Men's Daily 4.0 sneakers are 54% off at Amazon. The $30 price is below the 90-day Amazon average of $48. Shipping is free for Prime members. Buy Now at Amazon Features Low-cut skate-style sneaker for men Lace-up closure Available in men's sizes 4 to 14.5 Suitable for everyday casual wear",
+      "published": "2026-11-24T17:35:41+00:00",
+      "firstSeen": "2026-11-24T22:34:17.536043+00:00",
+      "updated": "2026-11-24T22:34:17.536043+00:00",
+      "history": [
+        {
+          "date": "2026-11-24T22:34:17.536043+00:00",
+          "price": 30.0,
+          "retailer": "DealNews"
+        }
+      ],
+      "retailer": "",
+      "feed": true,
+      "isProduct": true,
+      "matchConfidence": "medium",
+      "model": "",
+      "group": "",
+      "linkType": "deal_article"
+    },
+    {
+      "id": "0483e38b6416f9cfd4c5",
+      "title": "Nintendo Switch 2 Mario Kart World Bundle for +",
+      "productTitle": "Nintendo Switch 2 Mario Kart World Bundle for +",
+      "articleTitle": "Nintendo Switch 2 Mario Kart World Bundle for $499 + free shipping",
+      "url": "https://www.dealnews.com/Nintendo-Switch-2-Mario-Kart-World-Bundle-for-499-free-shipping/22427993.html?iref=rss-f1682",
+      "source": "DealNews Editors",
+      "category": "Electronics",
+      "price": 499.0,
+      "description": "At Amazon, get the Nintendo Switch 2 Mario Kart World Bundle for $499. It's the best deal we've seen for this bundle The bundle adds the Mario Kart World digital game and a 3-month Nintendo Switch Online membership to the console. Shipping is free. Buy Now at Amazon",
+      "published": "2026-11-24T14:54:46+00:00",
+      "firstSeen": "2026-11-24T22:34:17.536043+00:00",
+      "updated": "2026-11-24T22:34:17.536043+00:00",
+      "history": [
+        {
+          "date": "2026-11-24T22:34:17.536043+00:00",
+          "price": 499.0,
+          "retailer": "DealNews Editors"
+        }
+      ],
+      "retailer": "",
+      "feed": true,
+      "isProduct": true,
+      "matchConfidence": "medium",
+      "model": "",
+      "group": "",
+      "linkType": "deal_article"
+    },
+    {
+      "id": "fdcbcabc5c8ad0dc8057",
+      "title": "Refurb Unlocked Apple iPhone 16 Pro Max 256GB Phone for +",
+      "productTitle": "Refurb Unlocked Apple iPhone 16 Pro Max 256GB Phone for +",
+      "articleTitle": "Refurb Unlocked Apple iPhone 16 Pro Max 256GB Phone for $602 + free shipping",
+      "url": "https://www.dealnews.com/Refurb-Unlocked-Apple-iPhone-16-Pro-Max-256-GB-Phone-for-602-free-shipping/22427642.html?iref=rss-f1682",
+      "source": "DealNews Editors",
+      "category": "Electronics",
+      "price": 602.0,
+      "description": "At eBay, get this refurb unlocked Apple iPhone 16 Pro Max 256GB Phone for $602. It's the best deal we've seen for this iPhone model in any condition. Shipping is free. A 1-year Allstate warranty is incldued. Buy Now at eBay",
+      "published": "2026-11-24T11:08:43+00:00",
+      "firstSeen": "2026-11-24T22:34:17.536043+00:00",
+      "updated": "2026-11-24T22:34:17.536043+00:00",
+      "history": [
+        {
+          "date": "2026-11-24T22:34:17.536043+00:00",
+          "price": 602.0,
+          "retailer": "DealNews Editors"
+        }
+      ],
+      "retailer": "",
+      "feed": true,
+      "isProduct": true,
+      "matchConfidence": "medium",
+      "model": "",
+      "group": "",
+      "linkType": "deal_article"
+    },
     {
       "id": "593ab6558793256514a7",
       "title": "WORKPRO 17\"W x 11.5\"D x 51.5\"H 5-Tier Metal Shelving Unit (550-Lb Capacity)",
@@ -1150,34 +1654,6 @@
       "linkType": "deal_article"
     },
     {
-      "id": "b0cd9ee8493828b05272",
-      "title": "Momcozy KleanPal Pro All-in-One Bottle Washer, Sterilizer, and Dryer for +",
-      "productTitle": "Momcozy KleanPal Pro All-in-One Bottle Washer, Sterilizer, and Dryer for +",
-      "articleTitle": "Momcozy KleanPal Pro All-in-One Bottle Washer, Sterilizer, and Dryer for $209 + free shipping",
-      "url": "https://www.dealnews.com/products/Mom-Cozy/Mom-Cozy-Klean-Pal-Pro-Baby-Bottle-Washer-Sterilizer-and-Dryer/496036.html?iref=rss",
-      "source": "DealNews",
-      "category": "Appliances",
-      "price": 209.0,
-      "description": "Parents juggling bottle prep multiple times a day will appreciate having washing, sterilizing, and drying handled in one machine instead of three separate steps at the sink, and right now it's $91 off the $300 list price. Apply coupon code \"GE71YLT7\" for a savings of $91. Buy Now at Amazon Features Automates washing, sterilizing, and drying baby bo",
-      "published": "2026-11-22T21:27:22+00:00",
-      "firstSeen": "2026-11-22T23:39:26.218365+00:00",
-      "updated": "2026-11-22T23:39:26.218365+00:00",
-      "history": [
-        {
-          "date": "2026-11-22T23:39:26.218365+00:00",
-          "price": 209.0,
-          "retailer": "DealNews"
-        }
-      ],
-      "retailer": "",
-      "feed": true,
-      "isProduct": true,
-      "matchConfidence": "medium",
-      "model": "",
-      "group": "",
-      "linkType": "deal_article"
-    },
-    {
       "id": "27c8fc1937964726cf8a",
       "title": "Momcozy Triple-Seal Diaper Pail for +",
       "productTitle": "Momcozy Triple-Seal Diaper Pail for +",
@@ -1629,32 +2105,33 @@
   "sources": {
     "DealNews": {
       "ok": true,
-      "count": 7,
-      "checked": "2026-11-24T10:02:40.666361+00:00",
-      "total": 50,
+      "count": 9,
+      "checked": "2026-11-24T22:34:17.536043+00:00",
+      "total": 47,
       "skipped": {
-        "article_or_roundup": 10,
-        "unrecognized_product": 33
+        "unrecognized_product": 27,
+        "article_or_roundup": 9,
+        "multiple_prices": 2
       }
     },
     "DealNews Editors": {
       "ok": true,
       "count": 3,
-      "checked": "2026-11-24T10:02:40.666361+00:00",
-      "total": 44,
+      "checked": "2026-11-24T22:34:17.536043+00:00",
+      "total": 50,
       "skipped": {
-        "unrecognized_product": 25,
-        "article_or_roundup": 14,
-        "multiple_prices": 2
+        "article_or_roundup": 19,
+        "unrecognized_product": 28
       }
     },
     "Slickdeals": {
       "ok": true,
-      "count": 5,
-      "checked": "2026-11-24T10:02:40.666361+00:00",
+      "count": 6,
+      "checked": "2026-11-24T22:34:17.536043+00:00",
       "total": 25,
       "skipped": {
-        "unrecognized_product": 20
+        "unrecognized_product": 18,
+        "article_or_roundup": 1
       }
     }
   },
